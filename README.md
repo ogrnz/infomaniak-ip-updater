@@ -9,4 +9,4 @@ Automatically update your Infomaniak DynDNS service with this script.
 
 The idea is to use a cron-like service to execute the `script.py` python script. 
 
-Additional information will be found on [Infomaniak's website](https://faq.infomaniak.com/2357).
+Additional information can be found on [Infomaniak's website](https://faq.infomaniak.com/2357).
